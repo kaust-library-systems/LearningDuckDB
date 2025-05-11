@@ -1,0 +1,2 @@
+# LearningDuckDB
+Learning DuckDB
